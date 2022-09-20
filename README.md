@@ -12,3 +12,5 @@ Fácil até aqui, né? Bora se desafiar? 👀 🧑‍🚀
 
 - [x]  Verifique se a soma dos dois números é par ~~(ou ímpar)~~;
 - [x]  Verifique se os dois números inseridos são iguais ~~(ou diferentes)~~.
+
+https://js-desafio-01.vercel.app/
